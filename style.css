@@ -1,0 +1,110 @@
+
+.watch-video{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.topic-discrp{
+    margin-left: 70px;
+}
+p{
+    margin-left: 70px;
+}
+.side-nav{
+
+    position: fixed;
+    
+    right: 0;
+    top: 0;
+    width: 500px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0 15px;
+    border-bottom: 1px solid #bababa;
+    flex-direction: column;
+    padding: 50px 0;
+    background: linear-gradient( #3f51b5,#8884b4);
+    background-size: 100% 50% 500%;
+} 
+p{
+    color: #333;
+    vertical-align: top;
+    margin-left:70px;
+}
+.img-size{
+    margin-right: 100px;
+    display: inline-block;
+    width: 150px;
+}
+
+
+
+
+.para-alin{
+    color:#aaa
+    /* font-family: Arial, Helvetica, sans-serif ; */
+}
+
+/* discription section */
+
+.pos{
+    vertical-align: top;
+}
+
+.dp-pic{
+    display: inline-block;
+}
+/* sub button ill pass for now */
+/* .button {
+    color:#ffff
+    background-color:red;
+    border:none;
+    height: 50px;
+} */
+.dp-pic{
+    border-radius:40px ;
+    vertical-align: top;
+   margin-left: 20px;
+}
+.fonts-p{
+    font-family:Roboto;
+}
+.img-pic{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.top-right{
+    vertical-align: top;
+    /* display: flex;
+    flex-direction: row; */
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-right: 90px;
+    
+}
+
+
+
+/* subcribe button */
+/* .sub{
+    color:#ffff
+    background-color:rgb(200,0,0);
+    border: none;
+    height: 36px;
+    margin-left: 1200px;
+    cursor: pointer;
+    
+} */
+button{
+    color:#ffff
+    background-color:rgb(200,0,0);
+    border: none;
+    height: 36px;
+    margin-left: 1200px;
+    cursor: pointer;
+    
+}
